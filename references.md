@@ -1,4 +1,4 @@
-References to this skill:
+# References to this skill:
 
 1. [GitHub Skill template](https://github.com/advanreloaded/skills-resolve-merge-conflicts)
 
